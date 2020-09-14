@@ -1,0 +1,21 @@
+div{
+	width: 750px;
+	height: 850px;
+}
+.küld{
+	background-color:green;
+	color:yellow;
+}
+.vissz{
+	background-color: lightgreen;
+	color:green;
+}
+textarea{
+	background-color: grey;
+}
+form{
+	height:800px;
+}
+fieldset{
+	height:800px;
+}
